@@ -1,0 +1,246 @@
+.font-link {
+  font-family: 'Rubik', sans-serif;
+  font-family: "Alte Haas Grotesk";
+}
+
+.header{
+  background-color: #BEAEE2 ;
+  font-size: 55px;
+  text-align: center;
+  height: 130px;
+  padding-top: 15px;
+  font-family: 'Alte Haas Grotesk';
+}
+
+.judulTDL{
+  background-color: #F7DBF0;
+  font-size: 34px;
+  margin-top: 65px;
+  margin-left: -30px;
+  height: 55px;
+  width: 300px;
+  padding-left: 18px;
+  font-family: "Alte Haas Grotesk";
+}
+
+.tambahTDL{
+  margin-left: -30px;
+  margin-top: 15px;
+  height: 39px;
+  width: 300px;
+  border-radius: 15px;
+  font-size: 18px;
+  padding-left: 15px;
+  font-family: 'Rubik', sans-serif;
+  outline: none;
+}
+
+.tambahIcon{
+  position: 'absolute'; right: 100; top: 15; width: 25; height: 25;
+}
+
+.tabelTDL{
+  margin-top: 8px;
+  margin-left: -30px;
+  font-size: 28px;
+  font-family: 'Rubik', sans-serif;
+}
+
+.barisTDL{
+  margin-left: 90px;
+}
+
+.tombolTDL{
+  background-color: #BEAEE2;
+  border-radius: 100%;
+  border: none;
+  padding: 8px;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.judulTF{
+  background-color: #F7DBF0;
+  font-size: 34px;
+  margin-top: 65px;
+  margin-left: 45px;
+  height: 55px;
+  width: 350px;
+  padding-left: 18px;
+  
+  font-family: "Alte Haas Grotesk";
+}
+
+.fotoQuotes{
+  height: 260px;
+  width: 260px;
+  margin-top: 33px;
+  margin-left: 75px;
+}
+
+.quotes{
+  margin-top: 45px;
+  margin-right: -50px;
+  margin-left: 150px;
+  text-align: right;
+  font-size: 18px;
+  opacity: 80%;
+  font-family: 'Roboto', sans-serif;
+}
+
+.tempatPlaylist{
+  background-color: #CDF0EA;
+  height: 440px;
+  width: 350px;
+  margin-left: -30px;
+  margin-top: 70px;
+  font-family: 'Alte Haas Grotesk';
+  font-size: 34px;
+  padding-left: 18px;
+  padding-top: 8px;
+  margin-bottom: 50px;
+}
+
+.fotoPlaylist{
+  margin-top: 8px;
+}
+
+.laguPlaylist{
+  font-size: 20px;
+  margin-top: 20px;
+  font-family: 'Rubik', sans-serif;
+}
+
+.judulHW{
+  background-color: #F7DBF0;
+  font-size: 34px;
+  margin-top: 70px;
+  margin-left: -180px;
+  height: 55px;
+  width: 790px;
+  padding-left: 18px;
+  font-family: "Alte Haas Grotesk";
+}
+
+.tombolHW{
+  background-color: #BEAEE2;
+  border: none;
+  padding: 8px;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.tabelHW{
+  margin-top: 30px;
+  margin-left: -180px;
+  margin-right: -120px;
+  font-size: 28px;
+  font-family: 'Rubik', sans-serif;
+}
+
+.tabelTF{
+  font-family: 'Rubik', sans-serif;
+  font-size: 28px;
+  margin-left: 50px;
+  margin-top: 13px;
+}
+
+.judulModalsHW{
+  font-family: "Alte Haas Grotesk";
+  
+}
+
+.judulHWClass{
+  font-family: "Alte Haas Grotesk";
+}
+
+.judulHWDuedate{
+  padding-left: 10px;
+  font-family: "Alte Haas Grotesk";
+  margin-top: 15px;
+}
+
+.tambahHWClass{
+  font-size: 18px;
+  font-family: 'Rubik', sans-serif;
+  height: 39px;
+  width: 200px;
+  outline: none;
+  border-radius: 15px;
+  padding-left: 15px;
+}
+
+.tambahHWTask{
+  font-size: 18px;
+  font-family: 'Rubik', sans-serif;
+  height: 39px;
+  border-radius: 15px;
+  padding-left: 15px;
+  outline: none;
+}
+
+.tambahHWDuedate{
+  height: 39px;
+  width: 190px;
+  padding-left: 8px;
+  font-size: 18px;
+  font-family: 'Rubik', sans-serif;
+  margin-bottom: 40px;
+  margin-top: 3px;
+  outline: none;
+  padding-left: 15px;
+}
+
+.tempatHWDuedate{
+  height: 39px;
+  width: 280px;
+  border-radius: 15px;
+  font-family: 'Rubik', sans-serif;
+  font-size: 18px;
+  margin-left: 10px;
+  margin-top: 15px;
+  margin-bottom: 30px;
+  outline: none;
+  padding-left: 15px;
+}
+
+.judulExam{
+  background-color: #F7DBF0;
+  font-size: 34px;
+  margin-top: 45px;
+  margin-left: -30px;
+  height: 55px;
+  padding-left: 18px;
+  font-family: "Alte Haas Grotesk";
+  width: 450px;
+}
+
+.tabelExam{
+  margin-top: 30px;
+  font-size: 28px;
+  margin-left: -35px;
+  margin-right: 610px;
+  font-family: 'Rubik', sans-serif;
+  margin-bottom: 100px;
+}
+
+.tambahFocus{
+  height: 39px;
+  width: 300px;
+  font-size: 28px;
+  border-style:hidden; 
+  outline: none;
+  margin-top: -10px;
+}
+
+.tambahPlaylist{
+  height: 39px;
+  width: 300px;
+  border-style:hidden; 
+  outline: none;
+  font-size: 20px;
+  margin-top: -40px;
+  margin-bottom: -40px;
+  font-family: 'Rubik', sans-serif;
+  background-color: #CDF0EA;
+}
